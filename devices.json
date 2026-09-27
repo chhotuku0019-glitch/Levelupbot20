@@ -1,0 +1,15 @@
+{
+    "7613908747": {
+        "unique_device_id": "Google|5eddd6c5-6272-4ff7-9d9f-9fa842e05178",
+        "brand": "Samsung",
+        "model": "SM-G998B",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "327",
+        "memory": 4906,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2788 | 10",
+        "client_ip": "125.159.52.215"
+    }
+}
